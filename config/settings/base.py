@@ -258,6 +258,8 @@ ACCOUNT_ADAPTER = 'paw2018.users.adapters.AccountAdapter'
 # https://django-allauth.readthedocs.io/en/latest/configuration.html
 SOCIALACCOUNT_ADAPTER = 'paw2018.users.adapters.SocialAccountAdapter'
 
+ACCOUNT_USERNAME_REQUIRED = False
+
 
 # Your stuff...
 # ------------------------------------------------------------------------------
