@@ -1,0 +1,5 @@
+[run]
+include = paw2018/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
