@@ -1,4 +1,7 @@
 from django.db import models
+from paw2018.userteams.models import UserTeam
+from paw2018.nflgames.models import Game
+from paw2018.nflteams.models import Team
 
 # Create your models here.
 class UserPick(models.Model):

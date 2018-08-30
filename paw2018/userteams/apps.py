@@ -2,5 +2,5 @@ from django.apps import AppConfig
 
 
 class UserteamsConfig(AppConfig):
-    name = 'userteams'
+    name = 'paw2018.userteams'
     verbose_name = 'User Teams'
