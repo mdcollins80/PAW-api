@@ -16,4 +16,4 @@ class UserPick(models.Model):
                              related_name='userpicks')
 
     def __str__(self):
-        return self.team + '-' + self.pick
+        return self.team.team_name + '-' + self.pick.name
