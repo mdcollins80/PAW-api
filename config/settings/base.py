@@ -73,7 +73,10 @@ LOCAL_APPS = [
     'paw2018.users.apps.UsersAppConfig',
     'paw2018.leagues.apps.LeaguesConfig',
     'paw2018.userteams.apps.UserteamsConfig',
-    'paw2018.nflteams.apps.NflteamsConfig'
+    'paw2018.nflteams.apps.NflteamsConfig',
+    'paw2018.nflgames.apps.NflgamesConfig',
+    'paw2018.userpicks.apps.UserpicksConfig'
+
     # Your stuff: custom apps go here
 ]
 # https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
