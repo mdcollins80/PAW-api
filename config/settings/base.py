@@ -71,7 +71,8 @@ THIRD_PARTY_APPS = [
 ]
 LOCAL_APPS = [
     'paw2018.users.apps.UsersAppConfig',
-    'paw2018.leagues.apps.LeaguesConfig'
+    'paw2018.leagues.apps.LeaguesConfig',
+    'paw2018.userteams.apps.UserteamsConfig'
     # Your stuff: custom apps go here
 ]
 # https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
