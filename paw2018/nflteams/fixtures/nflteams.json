@@ -1,0 +1,323 @@
+[
+
+  {
+    "model": "nflteams.team",
+    "pk": 1,
+    "fields": {
+      "location": "Philadelphia",
+      "name":	"Eagles",
+      "conference":	"NFC",
+      "division":	"East"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 2,
+    "fields": {
+      "location": "Cleveland",
+      "name":	"Browns",
+      "conference":	"AFC",
+      "division":	"North"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 3,
+    "fields": {
+      "location": "Indianapolis",
+      "name":	"Colts",
+      "conference":	"AFC",
+      "division":	"South"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 4,
+    "fields": {
+      "location": "Miami",
+      "name":	"Dolphins",
+      "conference":	"AFC",
+      "division":	"East"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 5,
+    "fields": {
+      "location": "Minnesota",
+      "name":	"Vikings",
+      "conference":	"NFC",
+      "division":	"North"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 6,
+    "fields": {
+      "location": "New Orleans",
+      "name":	"Saints",
+      "conference":	"NFC",
+      "division":	"South"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 7,
+    "fields": {
+      "location": "New England",
+      "name":	"Patriots",
+      "conference":	"AFC",
+      "division":	"East"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 8,
+    "fields": {
+      "location": "New York",
+      "name":	"Giants",
+      "conference":	"NFC",
+      "division":	"East"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 9,
+    "fields": {
+      "location": "Baltimore",
+      "name":	"Ravens",
+      "conference":	"AFC",
+      "division":	"North"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 10,
+    "fields": {
+      "location": "Los Angeles",
+      "name":	"Chargers",
+      "conference":	"AFC",
+      "division":	"West"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 11,
+    "fields": {
+      "location": "Carolina",
+      "name":	"Panthers",
+      "conference":	"NFC",
+      "division":	"South"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 12,
+    "fields": {
+      "location": "Arizona",
+      "name":	"Cardinals",
+      "conference":	"NFC",
+      "division":	"West"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 13,
+    "fields": {
+      "location": "Denver",
+      "name":	"Broncos",
+      "conference":	"AFC",
+      "division":	"West"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 14,
+    "fields": {
+      "location": "Green Bay",
+      "name":	"Packers",
+      "conference":	"NFC",
+      "division":	"North"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 15,
+    "fields": {
+      "location": "Detroit",
+      "name":	"Lions",
+      "conference":	"NFC",
+      "division":	"North"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 16,
+    "fields": {
+      "location": "Oakland",
+      "name":	"Raiders",
+      "conference":	"AFC",
+      "division":	"West"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 17,
+    "fields": {
+      "location": "Cincinnati",
+      "name":	"Bengals",
+      "conference":	"AFC",
+      "division":	"North"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 18,
+    "fields": {
+      "location": "Atlanta",
+      "name":	"Falcons",
+      "conference":	"NFC",
+      "division":	"South"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 19,
+    "fields": {
+      "location": "Buffalo",
+      "name":	"Bills",
+      "conference":	"AFC",
+      "division":	"East"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 20,
+    "fields": {
+      "location": "New York",
+      "name":	"Jets",
+      "conference":	"AFC",
+      "division":	"East"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 21,
+    "fields": {
+      "location": "Tennessee",
+      "name":	"Titans",
+      "conference":	"AFC",
+      "division":	"South"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 22,
+    "fields": {
+      "location": "Pittsburgh",
+      "name":	"Steelers",
+      "conference":	"AFC",
+      "division":	"North"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 23,
+    "fields": {
+      "location": "Tampa Bay",
+      "name":	"Buccaneers",
+      "conference":	"NFC",
+      "division":	"South"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 24,
+    "fields": {
+      "location": "Washington",
+      "name":	"Redskins",
+      "conference":	"NFC",
+      "division":	"East"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 25,
+    "fields": {
+      "location": "Los Angeles",
+      "name":	"Rams",
+      "conference":	"NFC",
+      "division":	"West"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 26,
+    "fields": {
+      "location": "San Francisco",
+      "name":	"49ers",
+      "conference":	"NFC",
+      "division":	"West"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 27,
+    "fields": {
+      "location": "Jacksonville",
+      "name":	"Jaguars",
+      "conference":	"AFC",
+      "division":	"South"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 28,
+    "fields": {
+      "location": "Dallas",
+      "name":	"Cowboys",
+      "conference":	"NFC",
+      "division":	"East"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 29,
+    "fields": {
+      "location": "Chicago",
+      "name":	"Bears",
+      "conference":	"NFC",
+      "division":	"North"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 30,
+    "fields": {
+      "location": "Houston",
+      "name":	"Texans",
+      "conference":	"AFC",
+      "division":	"South"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 31,
+    "fields": {
+      "location": "Kansas City",
+      "name":	"Chiefs",
+      "conference":	"AFC",
+      "division":	"West"
+    }
+  },
+  {
+    "model": "nflteams.team",
+    "pk": 32,
+    "fields": {
+      "location": "Seattle",
+      "name":	"Seahawks",
+      "conference":	"NFC",
+      "division":	"West"
+    }
+  }
+]
