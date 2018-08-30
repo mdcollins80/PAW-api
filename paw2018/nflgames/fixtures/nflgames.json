@@ -1,0 +1,2562 @@
+[
+  {
+    "model": "nflgames.game",
+    "pk": 1,
+    "fields":  {
+      "week_num": 1,
+      "away_team": 18,
+      "home_team": 1,
+      "kickoff": "2018-09-06T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 2,
+    "fields":  {
+      "week_num": 1,
+      "away_team": 22,
+      "home_team": 2,
+      "kickoff": "2018-09-09T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 3,
+    "fields":  {
+      "week_num": 1,
+      "away_team": 17,
+      "home_team": 3,
+      "kickoff": "2018-09-09T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 4,
+    "fields":  {
+      "week_num": 1,
+      "away_team": 21,
+      "home_team": 4,
+      "kickoff": "2018-09-09T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 5,
+    "fields":  {
+      "week_num": 1,
+      "away_team": 26,
+      "home_team": 5,
+      "kickoff": "2018-09-09T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 6,
+    "fields":  {
+      "week_num": 1,
+      "away_team": 23,
+      "home_team": 6,
+      "kickoff": "2018-09-09T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 7,
+    "fields":  {
+      "week_num": 1,
+      "away_team": 30,
+      "home_team": 7,
+      "kickoff": "2018-09-09T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 8,
+    "fields":  {
+      "week_num": 1,
+      "away_team": 27,
+      "home_team": 8,
+      "kickoff": "2018-09-09T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 9,
+    "fields":  {
+      "week_num": 1,
+      "away_team": 19,
+      "home_team": 9,
+      "kickoff": "2018-09-09T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 10,
+    "fields":  {
+      "week_num": 1,
+      "away_team": 31,
+      "home_team": 10,
+      "kickoff": "2018-09-09T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 11,
+    "fields":  {
+      "week_num": 1,
+      "away_team": 28,
+      "home_team": 11,
+      "kickoff": "2018-09-09T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 12,
+    "fields":  {
+      "week_num": 1,
+      "away_team": 24,
+      "home_team": 12,
+      "kickoff": "2018-09-09T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 13,
+    "fields":  {
+      "week_num": 1,
+      "away_team": 32,
+      "home_team": 13,
+      "kickoff": "2018-09-09T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 14,
+    "fields":  {
+      "week_num": 1,
+      "away_team": 29,
+      "home_team": 14,
+      "kickoff": "2018-09-09T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 15,
+    "fields":  {
+      "week_num": 1,
+      "away_team": 20,
+      "home_team": 15,
+      "kickoff": "2018-09-10T19:10:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 16,
+    "fields":  {
+      "week_num": 1,
+      "away_team": 25,
+      "home_team": 16,
+      "kickoff": "2018-09-10T22:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 17,
+    "fields":  {
+      "week_num": 2,
+      "away_team": 9,
+      "home_team": 17,
+      "kickoff": "2018-09-13T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 18,
+    "fields":  {
+      "week_num": 2,
+      "away_team": 11,
+      "home_team": 18,
+      "kickoff": "2018-09-16T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 19,
+    "fields":  {
+      "week_num": 2,
+      "away_team": 10,
+      "home_team": 19,
+      "kickoff": "2018-09-16T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 20,
+    "fields":  {
+      "week_num": 2,
+      "away_team": 5,
+      "home_team": 14,
+      "kickoff": "2018-09-16T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 21,
+    "fields":  {
+      "week_num": 2,
+      "away_team": 2,
+      "home_team": 6,
+      "kickoff": "2018-09-16T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 22,
+    "fields":  {
+      "week_num": 2,
+      "away_team": 4,
+      "home_team": 20,
+      "kickoff": "2018-09-16T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 23,
+    "fields":  {
+      "week_num": 2,
+      "away_team": 30,
+      "home_team": 21,
+      "kickoff": "2018-09-16T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 24,
+    "fields":  {
+      "week_num": 2,
+      "away_team": 31,
+      "home_team": 22,
+      "kickoff": "2018-09-16T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 25,
+    "fields":  {
+      "week_num": 2,
+      "away_team": 1,
+      "home_team": 23,
+      "kickoff": "2018-09-16T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 26,
+    "fields":  {
+      "week_num": 2,
+      "away_team": 3,
+      "home_team": 24,
+      "kickoff": "2018-09-16T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 27,
+    "fields":  {
+      "week_num": 2,
+      "away_team": 12,
+      "home_team": 25,
+      "kickoff": "2018-09-16T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 28,
+    "fields":  {
+      "week_num": 2,
+      "away_team": 15,
+      "home_team": 26,
+      "kickoff": "2018-09-16T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 29,
+    "fields":  {
+      "week_num": 2,
+      "away_team": 16,
+      "home_team": 13,
+      "kickoff": "2018-09-16T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 30,
+    "fields":  {
+      "week_num": 2,
+      "away_team": 7,
+      "home_team": 27,
+      "kickoff": "2018-09-16T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 31,
+    "fields":  {
+      "week_num": 2,
+      "away_team": 8,
+      "home_team": 28,
+      "kickoff": "2018-09-16T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 32,
+    "fields":  {
+      "week_num": 2,
+      "away_team": 32,
+      "home_team": 29,
+      "kickoff": "2018-09-17T20:15:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 33,
+    "fields":  {
+      "week_num": 3,
+      "away_team": 20,
+      "home_team": 2,
+      "kickoff": "2018-09-20T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 34,
+    "fields":  {
+      "week_num": 3,
+      "away_team": 6,
+      "home_team": 18,
+      "kickoff": "2018-09-23T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 35,
+    "fields":  {
+      "week_num": 3,
+      "away_team": 17,
+      "home_team": 11,
+      "kickoff": "2018-09-23T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 36,
+    "fields":  {
+      "week_num": 3,
+      "away_team": 8,
+      "home_team": 30,
+      "kickoff": "2018-09-23T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 37,
+    "fields":  {
+      "week_num": 3,
+      "away_team": 21,
+      "home_team": 27,
+      "kickoff": "2018-09-23T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 38,
+    "fields":  {
+      "week_num": 3,
+      "away_team": 26,
+      "home_team": 31,
+      "kickoff": "2018-09-23T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 39,
+    "fields":  {
+      "week_num": 3,
+      "away_team": 16,
+      "home_team": 4,
+      "kickoff": "2018-09-23T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 40,
+    "fields":  {
+      "week_num": 3,
+      "away_team": 19,
+      "home_team": 5,
+      "kickoff": "2018-09-23T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 41,
+    "fields":  {
+      "week_num": 3,
+      "away_team": 3,
+      "home_team": 1,
+      "kickoff": "2018-09-23T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 42,
+    "fields":  {
+      "week_num": 3,
+      "away_team": 13,
+      "home_team": 9,
+      "kickoff": "2018-09-23T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 43,
+    "fields":  {
+      "week_num": 3,
+      "away_team": 14,
+      "home_team": 24,
+      "kickoff": "2018-09-23T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 44,
+    "fields":  {
+      "week_num": 3,
+      "away_team": 10,
+      "home_team": 25,
+      "kickoff": "2018-09-23T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 45,
+    "fields":  {
+      "week_num": 3,
+      "away_team": 29,
+      "home_team": 12,
+      "kickoff": "2018-09-23T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 46,
+    "fields":  {
+      "week_num": 3,
+      "away_team": 28,
+      "home_team": 32,
+      "kickoff": "2018-09-23T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 47,
+    "fields":  {
+      "week_num": 3,
+      "away_team": 7,
+      "home_team": 15,
+      "kickoff": "2018-09-23T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 48,
+    "fields":  {
+      "week_num": 3,
+      "away_team": 22,
+      "home_team": 23,
+      "kickoff": "2018-09-24T20:15:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 49,
+    "fields":  {
+      "week_num": 4,
+      "away_team": 5,
+      "home_team": 25,
+      "kickoff": "2018-09-27T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 50,
+    "fields":  {
+      "week_num": 4,
+      "away_team": 17,
+      "home_team": 18,
+      "kickoff": "2018-09-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 51,
+    "fields":  {
+      "week_num": 4,
+      "away_team": 23,
+      "home_team": 29,
+      "kickoff": "2018-09-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 52,
+    "fields":  {
+      "week_num": 4,
+      "away_team": 30,
+      "home_team": 3,
+      "kickoff": "2018-09-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 53,
+    "fields":  {
+      "week_num": 4,
+      "away_team": 15,
+      "home_team": 28,
+      "kickoff": "2018-09-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 54,
+    "fields":  {
+      "week_num": 4,
+      "away_team": 19,
+      "home_team": 14,
+      "kickoff": "2018-09-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 55,
+    "fields":  {
+      "week_num": 4,
+      "away_team": 20,
+      "home_team": 27,
+      "kickoff": "2018-09-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 56,
+    "fields":  {
+      "week_num": 4,
+      "away_team": 4,
+      "home_team": 7,
+      "kickoff": "2018-09-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 57,
+    "fields":  {
+      "week_num": 4,
+      "away_team": 1,
+      "home_team": 21,
+      "kickoff": "2018-09-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 58,
+    "fields":  {
+      "week_num": 4,
+      "away_team": 32,
+      "home_team": 12,
+      "kickoff": "2018-09-30T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 59,
+    "fields":  {
+      "week_num": 4,
+      "away_team": 2,
+      "home_team": 16,
+      "kickoff": "2018-09-30T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 60,
+    "fields":  {
+      "week_num": 4,
+      "away_team": 6,
+      "home_team": 8,
+      "kickoff": "2018-09-30T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 61,
+    "fields":  {
+      "week_num": 4,
+      "away_team": 26,
+      "home_team": 10,
+      "kickoff": "2018-09-30T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 62,
+    "fields":  {
+      "week_num": 4,
+      "away_team": 9,
+      "home_team": 22,
+      "kickoff": "2018-09-30T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 63,
+    "fields":  {
+      "week_num": 4,
+      "away_team": 31,
+      "home_team": 13,
+      "kickoff": "2018-10-01T20:15:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 64,
+    "fields":  {
+      "week_num": 5,
+      "away_team": 3,
+      "home_team": 7,
+      "kickoff": "2018-10-04T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 65,
+    "fields":  {
+      "week_num": 5,
+      "away_team": 21,
+      "home_team": 19,
+      "kickoff": "2018-10-07T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 66,
+    "fields":  {
+      "week_num": 5,
+      "away_team": 8,
+      "home_team": 11,
+      "kickoff": "2018-10-07T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 67,
+    "fields":  {
+      "week_num": 5,
+      "away_team": 4,
+      "home_team": 17,
+      "kickoff": "2018-10-07T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 68,
+    "fields":  {
+      "week_num": 5,
+      "away_team": 9,
+      "home_team": 2,
+      "kickoff": "2018-10-07T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 69,
+    "fields":  {
+      "week_num": 5,
+      "away_team": 14,
+      "home_team": 15,
+      "kickoff": "2018-10-07T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 70,
+    "fields":  {
+      "week_num": 5,
+      "away_team": 27,
+      "home_team": 31,
+      "kickoff": "2018-10-07T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 71,
+    "fields":  {
+      "week_num": 5,
+      "away_team": 13,
+      "home_team": 20,
+      "kickoff": "2018-10-07T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 72,
+    "fields":  {
+      "week_num": 5,
+      "away_team": 18,
+      "home_team": 22,
+      "kickoff": "2018-10-07T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 73,
+    "fields":  {
+      "week_num": 5,
+      "away_team": 16,
+      "home_team": 10,
+      "kickoff": "2018-10-07T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 74,
+    "fields":  {
+      "week_num": 5,
+      "away_team": 5,
+      "home_team": 1,
+      "kickoff": "2018-10-07T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 75,
+    "fields":  {
+      "week_num": 5,
+      "away_team": 25,
+      "home_team": 32,
+      "kickoff": "2018-10-07T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 76,
+    "fields":  {
+      "week_num": 5,
+      "away_team": 12,
+      "home_team": 26,
+      "kickoff": "2018-10-07T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 77,
+    "fields":  {
+      "week_num": 5,
+      "away_team": 28,
+      "home_team": 30,
+      "kickoff": "2018-10-07T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 78,
+    "fields":  {
+      "week_num": 5,
+      "away_team": 24,
+      "home_team": 6,
+      "kickoff": "2018-10-08T20:15:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 79,
+    "fields":  {
+      "week_num": 6,
+      "away_team": 1,
+      "home_team": 8,
+      "kickoff": "2018-10-11T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 80,
+    "fields":  {
+      "week_num": 6,
+      "away_team": 23,
+      "home_team": 18,
+      "kickoff": "2018-10-14T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 81,
+    "fields":  {
+      "week_num": 6,
+      "away_team": 22,
+      "home_team": 17,
+      "kickoff": "2018-10-14T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 82,
+    "fields":  {
+      "week_num": 6,
+      "away_team": 10,
+      "home_team": 2,
+      "kickoff": "2018-10-14T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 83,
+    "fields":  {
+      "week_num": 6,
+      "away_team": 19,
+      "home_team": 30,
+      "kickoff": "2018-10-14T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 84,
+    "fields":  {
+      "week_num": 6,
+      "away_team": 29,
+      "home_team": 4,
+      "kickoff": "2018-10-14T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 85,
+    "fields":  {
+      "week_num": 6,
+      "away_team": 12,
+      "home_team": 5,
+      "kickoff": "2018-10-14T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 86,
+    "fields":  {
+      "week_num": 6,
+      "away_team": 3,
+      "home_team": 20,
+      "kickoff": "2018-10-14T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 87,
+    "fields":  {
+      "week_num": 6,
+      "away_team": 32,
+      "home_team": 16,
+      "kickoff": "2018-10-14T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 88,
+    "fields":  {
+      "week_num": 6,
+      "away_team": 11,
+      "home_team": 24,
+      "kickoff": "2018-10-14T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 89,
+    "fields":  {
+      "week_num": 6,
+      "away_team": 25,
+      "home_team": 13,
+      "kickoff": "2018-10-14T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 90,
+    "fields":  {
+      "week_num": 6,
+      "away_team": 27,
+      "home_team": 28,
+      "kickoff": "2018-10-14T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 91,
+    "fields":  {
+      "week_num": 6,
+      "away_team": 9,
+      "home_team": 21,
+      "kickoff": "2018-10-14T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 92,
+    "fields":  {
+      "week_num": 6,
+      "away_team": 31,
+      "home_team": 7,
+      "kickoff": "2018-10-14T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 93,
+    "fields":  {
+      "week_num": 6,
+      "away_team": 26,
+      "home_team": 14,
+      "kickoff": "2018-10-15T20:15:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 94,
+    "fields":  {
+      "week_num": 7,
+      "away_team": 13,
+      "home_team": 12,
+      "kickoff": "2018-10-18T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 95,
+    "fields":  {
+      "week_num": 7,
+      "away_team": 21,
+      "home_team": 10,
+      "kickoff": "2018-10-21T09:30:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 96,
+    "fields":  {
+      "week_num": 7,
+      "away_team": 7,
+      "home_team": 29,
+      "kickoff": "2018-10-21T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 97,
+    "fields":  {
+      "week_num": 7,
+      "away_team": 19,
+      "home_team": 3,
+      "kickoff": "2018-10-21T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 98,
+    "fields":  {
+      "week_num": 7,
+      "away_team": 30,
+      "home_team": 27,
+      "kickoff": "2018-10-21T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 99,
+    "fields":  {
+      "week_num": 7,
+      "away_team": 17,
+      "home_team": 31,
+      "kickoff": "2018-10-21T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 100,
+    "fields":  {
+      "week_num": 7,
+      "away_team": 15,
+      "home_team": 4,
+      "kickoff": "2018-10-21T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 101,
+    "fields":  {
+      "week_num": 7,
+      "away_team": 5,
+      "home_team": 20,
+      "kickoff": "2018-10-21T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 102,
+    "fields":  {
+      "week_num": 7,
+      "away_team": 11,
+      "home_team": 1,
+      "kickoff": "2018-10-21T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 103,
+    "fields":  {
+      "week_num": 7,
+      "away_team": 2,
+      "home_team": 23,
+      "kickoff": "2018-10-21T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 104,
+    "fields":  {
+      "week_num": 7,
+      "away_team": 6,
+      "home_team": 9,
+      "kickoff": "2018-10-21T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 105,
+    "fields":  {
+      "week_num": 7,
+      "away_team": 28,
+      "home_team": 24,
+      "kickoff": "2018-10-21T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 106,
+    "fields":  {
+      "week_num": 7,
+      "away_team": 25,
+      "home_team": 26,
+      "kickoff": "2018-10-21T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 107,
+    "fields":  {
+      "week_num": 7,
+      "away_team": 8,
+      "home_team": 18,
+      "kickoff": "2018-10-22T20:15:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 108,
+    "fields":  {
+      "week_num": 8,
+      "away_team": 4,
+      "home_team": 30,
+      "kickoff": "2018-10-25T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 109,
+    "fields":  {
+      "week_num": 8,
+      "away_team": 1,
+      "home_team": 27,
+      "kickoff": "2018-10-28T09:30:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 110,
+    "fields":  {
+      "week_num": 8,
+      "away_team": 9,
+      "home_team": 11,
+      "kickoff": "2018-10-28T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 111,
+    "fields":  {
+      "week_num": 8,
+      "away_team": 20,
+      "home_team": 29,
+      "kickoff": "2018-10-28T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 112,
+    "fields":  {
+      "week_num": 8,
+      "away_team": 23,
+      "home_team": 17,
+      "kickoff": "2018-10-28T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 113,
+    "fields":  {
+      "week_num": 8,
+      "away_team": 32,
+      "home_team": 15,
+      "kickoff": "2018-10-28T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 114,
+    "fields":  {
+      "week_num": 8,
+      "away_team": 13,
+      "home_team": 31,
+      "kickoff": "2018-10-28T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 115,
+    "fields":  {
+      "week_num": 8,
+      "away_team": 24,
+      "home_team": 8,
+      "kickoff": "2018-10-28T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 116,
+    "fields":  {
+      "week_num": 8,
+      "away_team": 2,
+      "home_team": 22,
+      "kickoff": "2018-10-28T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 117,
+    "fields":  {
+      "week_num": 8,
+      "away_team": 3,
+      "home_team": 16,
+      "kickoff": "2018-10-28T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 118,
+    "fields":  {
+      "week_num": 8,
+      "away_team": 26,
+      "home_team": 12,
+      "kickoff": "2018-10-28T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 119,
+    "fields":  {
+      "week_num": 8,
+      "away_team": 14,
+      "home_team": 25,
+      "kickoff": "2018-10-28T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 120,
+    "fields":  {
+      "week_num": 8,
+      "away_team": 6,
+      "home_team": 5,
+      "kickoff": "2018-10-28T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 121,
+    "fields":  {
+      "week_num": 8,
+      "away_team": 7,
+      "home_team": 19,
+      "kickoff": "2018-10-29T20:15:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 122,
+    "fields":  {
+      "week_num": 9,
+      "away_team": 16,
+      "home_team": 26,
+      "kickoff": "2018-11-01T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 123,
+    "fields":  {
+      "week_num": 9,
+      "away_team": 29,
+      "home_team": 19,
+      "kickoff": "2018-11-04T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 124,
+    "fields":  {
+      "week_num": 9,
+      "away_team": 23,
+      "home_team": 11,
+      "kickoff": "2018-11-04T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 125,
+    "fields":  {
+      "week_num": 9,
+      "away_team": 31,
+      "home_team": 2,
+      "kickoff": "2018-11-04T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 126,
+    "fields":  {
+      "week_num": 9,
+      "away_team": 20,
+      "home_team": 4,
+      "kickoff": "2018-11-04T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 127,
+    "fields":  {
+      "week_num": 9,
+      "away_team": 15,
+      "home_team": 5,
+      "kickoff": "2018-11-04T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 128,
+    "fields":  {
+      "week_num": 9,
+      "away_team": 22,
+      "home_team": 9,
+      "kickoff": "2018-11-04T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 129,
+    "fields":  {
+      "week_num": 9,
+      "away_team": 18,
+      "home_team": 24,
+      "kickoff": "2018-11-04T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 130,
+    "fields":  {
+      "week_num": 9,
+      "away_team": 30,
+      "home_team": 13,
+      "kickoff": "2018-11-04T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 131,
+    "fields":  {
+      "week_num": 9,
+      "away_team": 10,
+      "home_team": 32,
+      "kickoff": "2018-11-04T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 132,
+    "fields":  {
+      "week_num": 9,
+      "away_team": 25,
+      "home_team": 6,
+      "kickoff": "2018-11-04T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 133,
+    "fields":  {
+      "week_num": 9,
+      "away_team": 14,
+      "home_team": 7,
+      "kickoff": "2018-11-04T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 134,
+    "fields":  {
+      "week_num": 9,
+      "away_team": 21,
+      "home_team": 28,
+      "kickoff": "2018-11-05T20:15:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 135,
+    "fields":  {
+      "week_num": 10,
+      "away_team": 11,
+      "home_team": 22,
+      "kickoff": "2018-11-08T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 136,
+    "fields":  {
+      "week_num": 10,
+      "away_team": 15,
+      "home_team": 29,
+      "kickoff": "2018-11-11T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 137,
+    "fields":  {
+      "week_num": 10,
+      "away_team": 6,
+      "home_team": 17,
+      "kickoff": "2018-11-11T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 138,
+    "fields":  {
+      "week_num": 10,
+      "away_team": 18,
+      "home_team": 2,
+      "kickoff": "2018-11-11T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 139,
+    "fields":  {
+      "week_num": 10,
+      "away_team": 27,
+      "home_team": 3,
+      "kickoff": "2018-11-11T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 140,
+    "fields":  {
+      "week_num": 10,
+      "away_team": 4,
+      "home_team": 14,
+      "kickoff": "2018-11-11T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 141,
+    "fields":  {
+      "week_num": 10,
+      "away_team": 12,
+      "home_team": 31,
+      "kickoff": "2018-11-11T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 142,
+    "fields":  {
+      "week_num": 10,
+      "away_team": 19,
+      "home_team": 20,
+      "kickoff": "2018-11-11T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 143,
+    "fields":  {
+      "week_num": 10,
+      "away_team": 7,
+      "home_team": 21,
+      "kickoff": "2018-11-11T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 144,
+    "fields":  {
+      "week_num": 10,
+      "away_team": 24,
+      "home_team": 23,
+      "kickoff": "2018-11-11T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 145,
+    "fields":  {
+      "week_num": 10,
+      "away_team": 10,
+      "home_team": 16,
+      "kickoff": "2018-11-11T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 146,
+    "fields":  {
+      "week_num": 10,
+      "away_team": 32,
+      "home_team": 25,
+      "kickoff": "2018-11-11T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 147,
+    "fields":  {
+      "week_num": 10,
+      "away_team": 28,
+      "home_team": 1,
+      "kickoff": "2018-11-11T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 148,
+    "fields":  {
+      "week_num": 10,
+      "away_team": 8,
+      "home_team": 26,
+      "kickoff": "2018-11-12T20:15:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 149,
+    "fields":  {
+      "week_num": 11,
+      "away_team": 14,
+      "home_team": 32,
+      "kickoff": "2018-11-15T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 150,
+    "fields":  {
+      "week_num": 11,
+      "away_team": 28,
+      "home_team": 18,
+      "kickoff": "2018-11-18T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 151,
+    "fields":  {
+      "week_num": 11,
+      "away_team": 5,
+      "home_team": 29,
+      "kickoff": "2018-11-18T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 152,
+    "fields":  {
+      "week_num": 11,
+      "away_team": 21,
+      "home_team": 3,
+      "kickoff": "2018-11-18T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 153,
+    "fields":  {
+      "week_num": 11,
+      "away_team": 11,
+      "home_team": 15,
+      "kickoff": "2018-11-18T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 154,
+    "fields":  {
+      "week_num": 11,
+      "away_team": 1,
+      "home_team": 6,
+      "kickoff": "2018-11-18T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 155,
+    "fields":  {
+      "week_num": 11,
+      "away_team": 23,
+      "home_team": 8,
+      "kickoff": "2018-11-18T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 156,
+    "fields":  {
+      "week_num": 11,
+      "away_team": 17,
+      "home_team": 9,
+      "kickoff": "2018-11-18T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 157,
+    "fields":  {
+      "week_num": 11,
+      "away_team": 30,
+      "home_team": 24,
+      "kickoff": "2018-11-18T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 158,
+    "fields":  {
+      "week_num": 11,
+      "away_team": 16,
+      "home_team": 12,
+      "kickoff": "2018-11-18T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 159,
+    "fields":  {
+      "week_num": 11,
+      "away_team": 13,
+      "home_team": 10,
+      "kickoff": "2018-11-18T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 160,
+    "fields":  {
+      "week_num": 11,
+      "away_team": 22,
+      "home_team": 27,
+      "kickoff": "2018-11-18T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 161,
+    "fields":  {
+      "week_num": 11,
+      "away_team": 31,
+      "home_team": 25,
+      "kickoff": "2018-11-19T20:15:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 162,
+    "fields":  {
+      "week_num": 12,
+      "away_team": 29,
+      "home_team": 15,
+      "kickoff": "2018-11-22T12:30:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 163,
+    "fields":  {
+      "week_num": 12,
+      "away_team": 24,
+      "home_team": 28,
+      "kickoff": "2018-11-22T16:30:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 164,
+    "fields":  {
+      "week_num": 12,
+      "away_team": 18,
+      "home_team": 6,
+      "kickoff": "2018-11-22T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 165,
+    "fields":  {
+      "week_num": 12,
+      "away_team": 27,
+      "home_team": 19,
+      "kickoff": "2018-11-25T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 166,
+    "fields":  {
+      "week_num": 12,
+      "away_team": 32,
+      "home_team": 11,
+      "kickoff": "2018-11-25T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 167,
+    "fields":  {
+      "week_num": 12,
+      "away_team": 2,
+      "home_team": 17,
+      "kickoff": "2018-11-25T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 168,
+    "fields":  {
+      "week_num": 12,
+      "away_team": 4,
+      "home_team": 3,
+      "kickoff": "2018-11-25T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 169,
+    "fields":  {
+      "week_num": 12,
+      "away_team": 7,
+      "home_team": 20,
+      "kickoff": "2018-11-25T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 170,
+    "fields":  {
+      "week_num": 12,
+      "away_team": 8,
+      "home_team": 1,
+      "kickoff": "2018-11-25T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 171,
+    "fields":  {
+      "week_num": 12,
+      "away_team": 16,
+      "home_team": 9,
+      "kickoff": "2018-11-25T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 172,
+    "fields":  {
+      "week_num": 12,
+      "away_team": 26,
+      "home_team": 23,
+      "kickoff": "2018-11-25T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 173,
+    "fields":  {
+      "week_num": 12,
+      "away_team": 12,
+      "home_team": 10,
+      "kickoff": "2018-11-25T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 174,
+    "fields":  {
+      "week_num": 12,
+      "away_team": 22,
+      "home_team": 13,
+      "kickoff": "2018-11-25T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 175,
+    "fields":  {
+      "week_num": 12,
+      "away_team": 14,
+      "home_team": 5,
+      "kickoff": "2018-11-25T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 176,
+    "fields":  {
+      "week_num": 12,
+      "away_team": 21,
+      "home_team": 30,
+      "kickoff": "2018-11-26T20:15:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 177,
+    "fields":  {
+      "week_num": 13,
+      "away_team": 6,
+      "home_team": 28,
+      "kickoff": "2018-11-29T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 178,
+    "fields":  {
+      "week_num": 13,
+      "away_team": 9,
+      "home_team": 18,
+      "kickoff": "2018-12-02T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 179,
+    "fields":  {
+      "week_num": 13,
+      "away_team": 13,
+      "home_team": 17,
+      "kickoff": "2018-12-02T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 180,
+    "fields":  {
+      "week_num": 13,
+      "away_team": 25,
+      "home_team": 15,
+      "kickoff": "2018-12-02T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 181,
+    "fields":  {
+      "week_num": 13,
+      "away_team": 12,
+      "home_team": 14,
+      "kickoff": "2018-12-02T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 182,
+    "fields":  {
+      "week_num": 13,
+      "away_team": 2,
+      "home_team": 30,
+      "kickoff": "2018-12-02T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 183,
+    "fields":  {
+      "week_num": 13,
+      "away_team": 3,
+      "home_team": 27,
+      "kickoff": "2018-12-02T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 184,
+    "fields":  {
+      "week_num": 13,
+      "away_team": 19,
+      "home_team": 4,
+      "kickoff": "2018-12-02T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 185,
+    "fields":  {
+      "week_num": 13,
+      "away_team": 29,
+      "home_team": 8,
+      "kickoff": "2018-12-02T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 186,
+    "fields":  {
+      "week_num": 13,
+      "away_team": 10,
+      "home_team": 22,
+      "kickoff": "2018-12-02T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 187,
+    "fields":  {
+      "week_num": 13,
+      "away_team": 11,
+      "home_team": 23,
+      "kickoff": "2018-12-02T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 188,
+    "fields":  {
+      "week_num": 13,
+      "away_team": 20,
+      "home_team": 21,
+      "kickoff": "2018-12-02T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 189,
+    "fields":  {
+      "week_num": 13,
+      "away_team": 31,
+      "home_team": 16,
+      "kickoff": "2018-12-02T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 190,
+    "fields":  {
+      "week_num": 13,
+      "away_team": 5,
+      "home_team": 7,
+      "kickoff": "2018-12-02T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 191,
+    "fields":  {
+      "week_num": 13,
+      "away_team": 26,
+      "home_team": 32,
+      "kickoff": "2018-12-02T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 192,
+    "fields":  {
+      "week_num": 13,
+      "away_team": 24,
+      "home_team": 1,
+      "kickoff": "2018-12-03T20:15:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 193,
+    "fields":  {
+      "week_num": 14,
+      "away_team": 27,
+      "home_team": 21,
+      "kickoff": "2018-12-06T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 194,
+    "fields":  {
+      "week_num": 14,
+      "away_team": 20,
+      "home_team": 19,
+      "kickoff": "2018-12-09T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 195,
+    "fields":  {
+      "week_num": 14,
+      "away_team": 25,
+      "home_team": 29,
+      "kickoff": "2018-12-09T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 196,
+    "fields":  {
+      "week_num": 14,
+      "away_team": 11,
+      "home_team": 2,
+      "kickoff": "2018-12-09T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 197,
+    "fields":  {
+      "week_num": 14,
+      "away_team": 18,
+      "home_team": 14,
+      "kickoff": "2018-12-09T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 198,
+    "fields":  {
+      "week_num": 14,
+      "away_team": 3,
+      "home_team": 30,
+      "kickoff": "2018-12-09T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 199,
+    "fields":  {
+      "week_num": 14,
+      "away_team": 9,
+      "home_team": 31,
+      "kickoff": "2018-12-09T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 200,
+    "fields":  {
+      "week_num": 14,
+      "away_team": 7,
+      "home_team": 4,
+      "kickoff": "2018-12-09T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 201,
+    "fields":  {
+      "week_num": 14,
+      "away_team": 6,
+      "home_team": 23,
+      "kickoff": "2018-12-09T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 202,
+    "fields":  {
+      "week_num": 14,
+      "away_team": 8,
+      "home_team": 24,
+      "kickoff": "2018-12-09T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 203,
+    "fields":  {
+      "week_num": 14,
+      "away_team": 17,
+      "home_team": 10,
+      "kickoff": "2018-12-09T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 204,
+    "fields":  {
+      "week_num": 14,
+      "away_team": 13,
+      "home_team": 26,
+      "kickoff": "2018-12-09T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 205,
+    "fields":  {
+      "week_num": 14,
+      "away_team": 15,
+      "home_team": 12,
+      "kickoff": "2018-12-09T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 206,
+    "fields":  {
+      "week_num": 14,
+      "away_team": 1,
+      "home_team": 28,
+      "kickoff": "2018-12-09T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 207,
+    "fields":  {
+      "week_num": 14,
+      "away_team": 22,
+      "home_team": 16,
+      "kickoff": "2018-12-09T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 208,
+    "fields":  {
+      "week_num": 14,
+      "away_team": 5,
+      "home_team": 32,
+      "kickoff": "2018-12-10T20:15:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 209,
+    "fields":  {
+      "week_num": 15,
+      "away_team": 10,
+      "home_team": 31,
+      "kickoff": "2018-12-13T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 210,
+    "fields":  {
+      "week_num": 15,
+      "away_team": 2,
+      "home_team": 13,
+      "kickoff": "2018-12-15T16:30:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 211,
+    "fields":  {
+      "week_num": 15,
+      "away_team": 30,
+      "home_team": 20,
+      "kickoff": "2018-12-15T16:30:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 212,
+    "fields":  {
+      "week_num": 15,
+      "away_team": 12,
+      "home_team": 18,
+      "kickoff": "2018-12-16T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 213,
+    "fields":  {
+      "week_num": 15,
+      "away_team": 15,
+      "home_team": 19,
+      "kickoff": "2018-12-16T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 214,
+    "fields":  {
+      "week_num": 15,
+      "away_team": 14,
+      "home_team": 29,
+      "kickoff": "2018-12-16T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 215,
+    "fields":  {
+      "week_num": 15,
+      "away_team": 16,
+      "home_team": 17,
+      "kickoff": "2018-12-16T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 216,
+    "fields":  {
+      "week_num": 15,
+      "away_team": 28,
+      "home_team": 3,
+      "kickoff": "2018-12-16T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 217,
+    "fields":  {
+      "week_num": 15,
+      "away_team": 24,
+      "home_team": 27,
+      "kickoff": "2018-12-16T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 218,
+    "fields":  {
+      "week_num": 15,
+      "away_team": 4,
+      "home_team": 5,
+      "kickoff": "2018-12-16T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 219,
+    "fields":  {
+      "week_num": 15,
+      "away_team": 21,
+      "home_team": 8,
+      "kickoff": "2018-12-16T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 220,
+    "fields":  {
+      "week_num": 15,
+      "away_team": 23,
+      "home_team": 9,
+      "kickoff": "2018-12-16T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 221,
+    "fields":  {
+      "week_num": 15,
+      "away_team": 32,
+      "home_team": 26,
+      "kickoff": "2018-12-16T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 222,
+    "fields":  {
+      "week_num": 15,
+      "away_team": 7,
+      "home_team": 22,
+      "kickoff": "2018-12-16T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 223,
+    "fields":  {
+      "week_num": 15,
+      "away_team": 1,
+      "home_team": 25,
+      "kickoff": "2018-12-16T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 224,
+    "fields":  {
+      "week_num": 15,
+      "away_team": 6,
+      "home_team": 11,
+      "kickoff": "2018-12-17T20:15:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 225,
+    "fields":  {
+      "week_num": 16,
+      "away_team": 18,
+      "home_team": 11,
+      "kickoff": "2018-12-23T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 226,
+    "fields":  {
+      "week_num": 16,
+      "away_team": 17,
+      "home_team": 2,
+      "kickoff": "2018-12-23T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 227,
+    "fields":  {
+      "week_num": 16,
+      "away_team": 8,
+      "home_team": 3,
+      "kickoff": "2018-12-23T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 228,
+    "fields":  {
+      "week_num": 16,
+      "away_team": 23,
+      "home_team": 28,
+      "kickoff": "2018-12-23T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 229,
+    "fields":  {
+      "week_num": 16,
+      "away_team": 5,
+      "home_team": 15,
+      "kickoff": "2018-12-23T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 230,
+    "fields":  {
+      "week_num": 16,
+      "away_team": 27,
+      "home_team": 4,
+      "kickoff": "2018-12-23T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 231,
+    "fields":  {
+      "week_num": 16,
+      "away_team": 19,
+      "home_team": 7,
+      "kickoff": "2018-12-23T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 232,
+    "fields":  {
+      "week_num": 16,
+      "away_team": 14,
+      "home_team": 20,
+      "kickoff": "2018-12-23T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 233,
+    "fields":  {
+      "week_num": 16,
+      "away_team": 24,
+      "home_team": 21,
+      "kickoff": "2018-12-23T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 234,
+    "fields":  {
+      "week_num": 16,
+      "away_team": 30,
+      "home_team": 1,
+      "kickoff": "2018-12-23T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 235,
+    "fields":  {
+      "week_num": 16,
+      "away_team": 25,
+      "home_team": 12,
+      "kickoff": "2018-12-23T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 236,
+    "fields":  {
+      "week_num": 16,
+      "away_team": 9,
+      "home_team": 10,
+      "kickoff": "2018-12-23T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 237,
+    "fields":  {
+      "week_num": 16,
+      "away_team": 29,
+      "home_team": 26,
+      "kickoff": "2018-12-23T16:05:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 238,
+    "fields":  {
+      "week_num": 16,
+      "away_team": 22,
+      "home_team": 6,
+      "kickoff": "2018-12-23T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 239,
+    "fields":  {
+      "week_num": 16,
+      "away_team": 31,
+      "home_team": 32,
+      "kickoff": "2018-12-23T20:20:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 240,
+    "fields":  {
+      "week_num": 16,
+      "away_team": 13,
+      "home_team": 16,
+      "kickoff": "2018-12-24T20:15:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 241,
+    "fields":  {
+      "week_num": 17,
+      "away_team": 4,
+      "home_team": 19,
+      "kickoff": "2018-12-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 242,
+    "fields":  {
+      "week_num": 17,
+      "away_team": 15,
+      "home_team": 14,
+      "kickoff": "2018-12-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 243,
+    "fields":  {
+      "week_num": 17,
+      "away_team": 27,
+      "home_team": 30,
+      "kickoff": "2018-12-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 244,
+    "fields":  {
+      "week_num": 17,
+      "away_team": 16,
+      "home_team": 31,
+      "kickoff": "2018-12-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 245,
+    "fields":  {
+      "week_num": 17,
+      "away_team": 29,
+      "home_team": 5,
+      "kickoff": "2018-12-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 246,
+    "fields":  {
+      "week_num": 17,
+      "away_team": 11,
+      "home_team": 6,
+      "kickoff": "2018-12-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 247,
+    "fields":  {
+      "week_num": 17,
+      "away_team": 20,
+      "home_team": 7,
+      "kickoff": "2018-12-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 248,
+    "fields":  {
+      "week_num": 17,
+      "away_team": 28,
+      "home_team": 8,
+      "kickoff": "2018-12-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 249,
+    "fields":  {
+      "week_num": 17,
+      "away_team": 3,
+      "home_team": 21,
+      "kickoff": "2018-12-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 250,
+    "fields":  {
+      "week_num": 17,
+      "away_team": 17,
+      "home_team": 22,
+      "kickoff": "2018-12-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 251,
+    "fields":  {
+      "week_num": 17,
+      "away_team": 2,
+      "home_team": 9,
+      "kickoff": "2018-12-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 252,
+    "fields":  {
+      "week_num": 17,
+      "away_team": 18,
+      "home_team": 23,
+      "kickoff": "2018-12-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 253,
+    "fields":  {
+      "week_num": 17,
+      "away_team": 1,
+      "home_team": 24,
+      "kickoff": "2018-12-30T13:00:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 254,
+    "fields":  {
+      "week_num": 17,
+      "away_team": 10,
+      "home_team": 13,
+      "kickoff": "2018-12-30T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 255,
+    "fields":  {
+      "week_num": 17,
+      "away_team": 26,
+      "home_team": 25,
+      "kickoff": "2018-12-30T16:25:00"
+    }
+  },
+  {
+    "model": "nflgames.game",
+    "pk": 256,
+    "fields":  {
+      "week_num": 17,
+      "away_team": 12,
+      "home_team": 32,
+      "kickoff": "2018-12-30T16:25:00"
+    }
+  }
+]
