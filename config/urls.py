@@ -4,6 +4,16 @@ from django.conf.urls.static import static
 from django.contrib import admin
 from django.views.generic import TemplateView
 from django.views import defaults as default_views
+from rest_framework.routers import DefaultRouter
+
+from paw2018.users.urls import api_router as user_router
+
+class MasterRouter(DefaultRouter):
+    def register_subrouter(self, subrouter):
+        self.registry.extend(subrouter.registry)
+
+api_router = MasterRouter()
+api_router.register_subrouter(user_router)
 
 urlpatterns = [
     path("", TemplateView.as_view(template_name="pages/home.html"), name="home"),
@@ -21,6 +31,10 @@ urlpatterns = [
     ),
     path("accounts/", include("allauth.urls")),
     # Your stuff: custom urls includes go here
+
+    #API stuff
+    path("api/", include(api_router.urls)),
+    path("api-auth/", include('rest_framework.urls', namespace='rest_framework')),
 ] + static(
     settings.MEDIA_URL, document_root=settings.MEDIA_ROOT
 )
