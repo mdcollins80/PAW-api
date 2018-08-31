@@ -5,6 +5,7 @@ from django.contrib import admin
 from django.views.generic import TemplateView
 from django.views import defaults as default_views
 from rest_framework.routers import DefaultRouter
+from rest_framework_jwt.views import obtain_jwt_token, refresh_jwt_token
 
 from paw2018.users.urls import api_router as user_router
 from paw2018.leagues.urls import api_router as league_router
@@ -45,6 +46,10 @@ urlpatterns = [
     #API stuff
     path("api/", include(api_router.urls)),
     path("api-auth/", include('rest_framework.urls', namespace='rest_framework')),
+    path("api/rest-auth/", include('rest_auth.urls')),
+    path("api/rest-auth/registration/", include('rest_auth.registration.urls')),
+    path("api/auth/token/obtain/", obtain_jwt_token),
+    path("api/auth/token/refresh/", refresh_jwt_token),
 ] + static(
     settings.MEDIA_URL, document_root=settings.MEDIA_ROOT
 )
