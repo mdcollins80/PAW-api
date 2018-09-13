@@ -1,7 +1,7 @@
 from .models import UserTeam
 from rest_framework import serializers
 
-class UserTeamSerializer(serializers.HyperlinkedModelSerializer):
+class UserTeamSerializer(serializers.ModelSerializer):
     class Meta:
         model = UserTeam
-        fields = ('owner', 'league', 'team_name')
+        fields = ('id', 'owner', 'league', 'team_name')

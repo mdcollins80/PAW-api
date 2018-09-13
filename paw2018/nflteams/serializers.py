@@ -1,8 +1,8 @@
 from .models import Team
 from rest_framework import serializers
 
-class TeamSerializer(serializers.HyperlinkedModelSerializer):
+class TeamSerializer(serializers.ModelSerializer):
     class Meta:
         model = Team
-        fields = ('location', 'name', 'conference', 'division',
+        fields = ('id', 'location', 'name', 'conference', 'division',
                   'wins', 'losses', 'division_wins', 'division_losses')
