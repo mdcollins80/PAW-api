@@ -21,3 +21,4 @@ coreapi==2.3.3  # https://github.com/core-api/python-client
 # Stuff I Added
 django-cors-headers==2.4.0
 djangorestframework-jwt==1.11.0
+django-rest-auth-0.9.3
