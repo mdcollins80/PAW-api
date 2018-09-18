@@ -31,3 +31,13 @@ class Game(models.Model):
             return str(date.year) + "-" + str(date.year + 1)
         else:
             return str(date.year - 1) + "-" + str(date.year)
+
+    @property
+    def winner(self):
+        if self.home_team_score and self.away_team_score:
+            if self.home_team_score > self.away_team_score:
+                return self.home_team.id
+            elif self.home_team_score == self.away_team_score:
+                return 0
+            else:
+                return self.away_team.id
