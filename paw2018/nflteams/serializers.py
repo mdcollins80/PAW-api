@@ -11,3 +11,8 @@ class TeamNameSerializer(serializers.ModelSerializer):
     class Meta:
         model = Team
         fields = ('id', 'name')
+
+class TeamIDSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Team
+        fields = ('id',)

@@ -5,3 +5,9 @@ class UserTeamSerializer(serializers.ModelSerializer):
     class Meta:
         model = UserTeam
         fields = ('id', 'owner', 'league', 'team_name')
+
+
+class UserTeamIDSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = UserTeam
+        fields = ('id',)
