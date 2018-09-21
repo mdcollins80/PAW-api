@@ -34,7 +34,7 @@ class Game(models.Model):
 
     @property
     def winner(self):
-        if self.home_team_score and self.away_team_score:
+        if isinstance(self.home_team_score, int) and isinstance(self.away_team_score, int):
             if self.home_team_score > self.away_team_score:
                 return self.home_team.id
             elif self.home_team_score == self.away_team_score:
