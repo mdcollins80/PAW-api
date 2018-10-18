@@ -12,7 +12,7 @@ class UserPickSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = UserPick
-        fields = ('id', 'team', 'game', 'pick')
+        fields = ('id', 'team', 'game', 'pick', 'correct')
 
 
 class UserPickPostSerializer(serializers.ModelSerializer):

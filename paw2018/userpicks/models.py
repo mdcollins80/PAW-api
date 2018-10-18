@@ -17,3 +17,9 @@ class UserPick(models.Model):
 
     def __str__(self):
         return self.team.team_name + '-' + self.pick.name
+
+    def correct(self):
+        if self.game.winner and self.game.winner == self.pick.id:
+            return 1
+        elif self.game.winner:
+            return 0
